@@ -1,20 +1,35 @@
 #root {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 2rem;
     text-align: center;
+    align-content: center;
 }
 
-.carouselExample {
+header {
+    background-color: #b48ead;
+    text-align: center;
+    padding: 50px;
+    color: #eceff4;
+}
+
+
+
+#carouselExample {
     max-width: 800px;
-    height: auto;
+    max-height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 5%;
     text-align: center;
+    align-content: center;
+    
 }
 
 .carousel-item img {
     max-width: 800px;
-    height: auto;
+    max-height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 15px;
     border: 3px solid #b48ead;
     box-shadow: 0 4px 6px #2e3440;
