@@ -30,10 +30,10 @@ function Home() {
 
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="src/assets/photo_2024-09-29_10-15-05.jpg" className="d-block w-100" alt="..." />
+                        <img src="/photo_2024-09-29_10-15-05.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="src/assets/photo_2024-09-29_10-15-51.jpg" className="d-block w-100" alt="..." />
+                        <img src="/photo_2024-09-29_10-15-51.jpg" className="d-block w-100" alt="..." />
                     </div>
 
                 </div>
