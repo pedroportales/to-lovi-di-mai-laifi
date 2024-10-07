@@ -16,4 +16,13 @@ h1 {
     font-size: 50px;
     font-style: normal;
     color: #d8dee9;
+    position: center;
+}
+
+p {
+    font-family: "Annie Use Your Telescope", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #d8dee9;
 }
