@@ -80,7 +80,7 @@ function Home() {
                 <img src="/to-lovi-di-mai-laifi/photo_2024-09-29_10-15-19.jpg" alt="" className="img-out" />
                 <p>Estou ansioso para que possamos entrar juntos no Templo!! Se for parar pra pensar, ainda não fizemos isso, mesmo durante o período de Casa Aberta. Isso quer dizer que quando fizermos, será literalmente a primeira vez, e será única!!</p>
                 <img src="/to-lovi-di-mai-laifi/photo_2024-09-30_13-38-12.jpg" alt="..." className="img-out" />
-                <p>Também estou esperançoso de lhe carregar em meus braços, você com um belo vestido branco (que vai ficar ainda mais belo em você), e tendo juntos esse momento tão feliz e especial que nos é ordenado pelo Pai! Muito obrigado por ter ✨guardado✨ meu coração contigo, meu amor!! Pode ficar com ele (sem prazo de devolução 😝). Que venhamos muitos anos mais, e uma eternidade!! ❤️✨</p>
+                <p>Também estou esperançoso de lhe carregar em meus braços, você com um belo vestido branco (que vai ficar ainda mais belo em você), e tendo juntos esse momento tão feliz e especial que nos é ordenado pelo Pai! Muito obrigado por ter ✨guardado✨ meu coração contigo, meu amor!! Pode ficar com ele (sem prazo de devolução 😝). Que venham muitos anos mais, e uma eternidade!! ❤️✨</p>
                 <img src="/to-lovi-di-mai-laifi/photo_2024-10-02_19-40-21.jpg" alt="" className="img-out" />
                 <br /><br /><br />
                 <h1>Eu te amo!! E vou gritar pra todo mundo ouvir!! ❤️❤️❤️🫂</h1>
