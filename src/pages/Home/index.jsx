@@ -10,7 +10,7 @@ function Home() {
             </header>
             <br />
             <main>
-                <p>Eu sei que esse não é o melhor presente do mundo KKKKK Mas eu fiz de coração pra ti!! E gostaria de lhe agradecer por ser essa garota tão especial que tem sido uma benção tão grande em minha vida... Abaixo separei 4 fotos de nós dois, um ao lado do outro, e em todas podemos encontrar nada mais, nada menos que o sorriso mais belo de toda existência: </p>
+                <p>Eu sei que esse não é o melhor presente do mundo KKKKK Mas eu fiz de coração pra ti!! E gostaria de lhe agradecer por ser essa garota tão especial que tem sido uma benção tão grande em minha vida... Abaixo separei 4 fotos de nós dois (vai passando pros lados), um ao lado do outro, e em todas podemos encontrar nada mais, nada menos que o sorriso mais belo de toda existência: </p>
                 <div id="carouselExample" className="carousel slide">
                     <div className="carousel-indicators">
                         <button
