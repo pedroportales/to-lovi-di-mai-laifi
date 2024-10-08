@@ -33,6 +33,18 @@ function Home() {
                             data-bs-slide-to={2}
                             aria-label="Slide 3"
                         />
+                        <button
+                            type="button"
+                            data-bs-target="#carouselExampleIndicators"
+                            data-bs-slide-to={3}
+                            aria-label="Slide 4"
+                        />
+                        <button
+                            type="button"
+                            data-bs-target="#carouselExampleIndicators"
+                            data-bs-slide-to={4}
+                            aria-label="Slide 5"
+                        />
                     </div>
 
                     <div className="carousel-inner">
@@ -43,9 +55,14 @@ function Home() {
                             <img src="/photo_2024-09-29_10-15-51.jpg" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/photo_2024-09-29_10-14-50.jpg" className="d-block w-100" alt="..." />
+                            <img src="/photo_2024-10-04_09-21-54.jpg" className="d-block w-100" alt="..." />
                         </div>
-
+                        <div className="carousel-item">
+                            <img src="/photo_2024-10-02_19-40-21.jpg" className='d-block w-100' alt="..." />
+                        </div>
+                        <div className='carousel-item'>
+                            <img src="/photo_2024-09-30_13-38-12.jpg" className='d-block w-100' alt="..." />
+                        </div>
                     </div>
                     <button
                         className="carousel-control-prev"
@@ -67,6 +84,7 @@ function Home() {
                     </button>
                 </div>
                 <br />
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dignissimos est cumque! Modi perferendis quasi culpa voluptate, officia quos labore facilis voluptatum architecto deserunt nulla ab porro. Iure, eveniet veniam. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus, facilis necessitatibus eveniet minima voluptatem est voluptatibus quo. Dolor ullam repudiandae earum, omnis saepe, sint, et cupiditate illo dolore consequatur fugit.</p>
             </main>
         </>
     )

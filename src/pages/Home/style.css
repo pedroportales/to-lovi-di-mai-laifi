@@ -10,24 +10,22 @@ header {
     color: #eceff4;
 }
 
-
-
 #carouselExample {
     max-width: 800px;
-    max-height: 100%;
-    display: block;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-left: auto;
     margin-right: auto;
     border-radius: 5%;
     text-align: center;
     align-content: center;
-    
 }
 
-.carousel-item img {
-    max-width: 800px;
-    max-height: 10%;
-    display: block;
+#carouselExample .carousel-item img {
+    max-width: 70%;
+    height: 50%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
@@ -35,3 +33,6 @@ header {
     box-shadow: 0 4px 6px #2e3440;
     transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
+
+
+
