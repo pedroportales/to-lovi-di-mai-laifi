@@ -49,19 +49,19 @@ function Home() {
 
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="/photo_2024-09-29_10-15-05.jpg" className="d-block w-100" alt="..." />
+                            <img src="/to-lovi-di-mai-laifi/photo_2024-09-29_10-15-05.jpg" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/photo_2024-09-29_10-15-51.jpg" className="d-block w-100" alt="..." />
+                            <img src="/to-lovi-di-mai-laifi/photo_2024-09-29_10-15-51.jpg" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/photo_2024-10-04_09-21-54.jpg" className="d-block w-100" alt="..." />
+                            <img src="/to-lovi-di-mai-laifi/photo_2024-10-04_09-21-54.jpg" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/photo_2024-10-02_19-40-21.jpg" className='d-block w-100' alt="..." />
+                            <img src="/to-lovi-di-mai-laifi/photo_2024-10-02_19-40-21.jpg" className='d-block w-100' alt="..." />
                         </div>
                         <div className='carousel-item'>
-                            <img src="/photo_2024-09-30_13-38-12.jpg" className='d-block w-100' alt="..." />
+                            <img src="/to-lovi-di-mai-laifi/photo_2024-09-30_13-38-12.jpg" className='d-block w-100' alt="..." />
                         </div>
                     </div>
                     <button
