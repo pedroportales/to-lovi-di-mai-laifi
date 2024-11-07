@@ -83,7 +83,7 @@ function Home() {
                 <p>Também estou esperançoso de lhe carregar em meus braços, você com um belo vestido branco (que vai ficar ainda mais belo em você), e tendo juntos esse momento tão feliz e especial que nos é ordenado pelo Pai! Muito obrigado por ter ✨guardado✨ meu coração contigo, meu amor!! Pode ficar com ele (sem prazo de devolução 😝). Que venham muitos anos mais, e uma eternidade!! ❤️✨</p>
                 <img src="/to-lovi-di-mai-laifi/photo_2024-10-02_19-40-21.jpg" alt="" className="img-out" />
                 <br /><br /><br />
-                <h1>Eu te amo!! E vou gritar pra todo mundo ouvir!! ❤️❤️❤️🫂</h1>
+                <h1>Eu te amo (Muito muito muito muitãoo)!! E vou gritar pra todo mundo ouvir!! ❤️❤️❤️🫂</h1>
                 <br /><br /><br />
             </main>
         </>
